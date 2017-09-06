@@ -1,6 +1,6 @@
 # AnimeJS-App
 
-I really like Frontend Web Development and especially jQuery. I like to know something new every day, so I created this simple app to be more familiar with AnimeJS.
+I really like Frontend Web Development and especially different visual effects based on the jQuery. I like to know something new every day, so I created this simple app to be more familiar with AnimeJS.
 
 **AnimeJS** is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects.
 
